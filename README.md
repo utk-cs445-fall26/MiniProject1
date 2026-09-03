@@ -8,7 +8,7 @@ Groups
 - Group 0: kyandall, jtyuill, cgoering, jvijayak, asaucer, cdamron3
 - Group 1: hneel, mjohn326, sydlwils, dkim68, pshu, ncash3
 - Group 2: eabbott9, aalkafou, mmariaru, cfinley6, jbell96, cliddel2
-- Group 3: wch356, pstorch1, smurph61, bjy819, lwang111
+- Group 3: wch356, pstorch1, smurph61, bjy819, lwang111, hsaleh5
 - Group 4: gwright30, wknepp, kha5, sbombry1, bxy539
 - Group 5: hnaicker, hawad, aberard, rkabarwa, dmengeli
 - Group 6: tcartier, cwolver1, jpark127, smaciasa, pvickery
