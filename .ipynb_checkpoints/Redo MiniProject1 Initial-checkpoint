@@ -1,0 +1,27 @@
+# Proposal
+
+Measure and compare the vocabulary distributions and high-frequency words across two separate works by the same author.
+
+Compare the word frequency distributions of those works against a work by a different author to identify unique vocabulary signatures.
+
+**Primary Author:** F. Colburn Adams
+
+**Book 1:** *Manuel Pereira; Or, The Sovereign Rule of South Carolina*
+
+https://www.gutenberg.org/cache/epub/4680/pg4680.txt
+
+**Book 2:** *Our World; Or, the Slaveholder's Daughter*
+
+https://www.gutenberg.org/cache/epub/4677/pg4677.txt
+
+**Secondary Author:** Robert Louis Stevenson
+
+**Book 1:** *Treasure Island*
+
+https://www.gutenberg.org/cache/epub/120/pg120.txt
+
+I plan to use the NLTK and BeautifulSoup libraries to ingest, clean, process, and analyze the text data.
+
+I will compare the vocabulary distributions and high-frequency words between the two works by F. Colburn Adams. I will then compare these results with *Treasure Island* by Robert Louis Stevenson to identify differences and similarities in vocabulary usage.
+
+I will use Matplotlib to visualize the results using graphs such as word-frequency charts and vocabulary distribution comparisons.
